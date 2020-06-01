@@ -17,7 +17,19 @@
   color: rgba(0, 0, 0, 0.5);
 }
 
-#step-intro-5 p, h1 {
+#step-intro-5 p, h2 {
+  display: inline;
+}
+
+#step-definition-3 p, h2 {
+  display: inline;
+}
+
+#step-definition-4 p, h2 {
+  display: inline;
+}
+
+#step-definition-5 p, h2 {
   display: inline;
 }
 

@@ -50,7 +50,6 @@ div, p, canvas, i, em {
 h1 {
   font-family: 'SS BlackHead';
   font-size: 80px;
-  font-weight: bold;
 }
 
 h2 {
@@ -82,11 +81,11 @@ h2 {
 }
 
 .red-bg {
-  background-color: rgb(255, 68, 68);
+  background-color: #ff2929;
 }
 
 .orange-bg {
-  background-color: rgb(255, 187, 51);
+  background-color: #FC8F47;
 }
 
 .green-bg {
@@ -95,6 +94,10 @@ h2 {
 
 .purple-bg {
   background-color: rgb(170, 102, 204);
+}
+
+.black-bg {
+  background-color: rgb(0, 0, 0);
 }
 
 .blue-bg {
@@ -119,5 +122,18 @@ h2 {
 #step-intro-6:not(.active) {
   opacity: 100;
 }
+
+#step-definition:not(.active) {
+  opacity: 100;
+}
+
+#step-definition-2:not(.active) {
+  opacity: 100;
+}
+
+#step-architecture:not(.active) {
+  opacity: 100;
+}
+
 
 
