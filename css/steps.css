@@ -33,6 +33,10 @@
   display: inline;
 }
 
+#step-criteres-6 h1, h2 {
+  display: inline;
+}
+
 .step.sim.foundation {
   background-color: white;
   width: 900px;
