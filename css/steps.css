@@ -69,6 +69,16 @@
   display: inline;
 }
 
+#step-terrain-17 h2, h3 {
+  display: inline;
+}
+
+#step-conclusion h1 {
+  display: inline;
+}
+
+
+
 
 .step.sim.foundation {
   background-color: white;
