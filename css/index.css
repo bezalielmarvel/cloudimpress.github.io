@@ -209,6 +209,10 @@ h3 {
   opacity: 100;
 }
 
+#step-terrain-19:not(.active) {
+  opacity: 100;
+}
+
 #step-terrain-20:not(.active) {
   opacity: 100;
 }
